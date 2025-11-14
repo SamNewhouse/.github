@@ -8,7 +8,6 @@ I enjoy building scalable solutions, game mechanics, starter templates, and deve
 
 - 🌐 [Website](https://www.samnewhouse.co.uk)
 - 💼 [LinkedIn](https://www.linkedin.com/in/snewhouse)
-- 🏡 [GitHub Profile](https://github.com/SamNewhouse)
 
 ---
 
