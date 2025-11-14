@@ -49,9 +49,8 @@ If you have feedback about these global standards, open an issue here!
 ## 📦 Featured Projects
 
 - [create-nttb](https://github.com/SamNewhouse/create-nttb) – Next.js + TS + Tailwind atomic boilerplate
-- [serverless-typescript-boilerplate](https://github.com/SamNewhouse/serverless-typescript-boilerplate)
+- [serverless-typescript-boilerplate](https://github.com/SamNewhouse/serverless-typescript-boilerplate) Soon to be updated
 - [portfolio](https://github.com/SamNewhouse/portfolio)
-- [dashboard](https://github.com/SamNewhouse/dashboard)
 
 ---
 
