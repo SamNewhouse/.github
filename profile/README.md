@@ -1,51 +1,45 @@
 # 👋 Hi, I'm Sam Newhouse
 
-## 🚀 About Me
-
-I’m a full-stack developer and open-source enthusiast based in Brighton, UK.  
-I specialise in React Native, TypeScript, modern web application frameworks, and e-commerce tooling.  
-I enjoy building scalable solutions, game mechanics, starter templates, and developer-focused tools.
+Full-stack developer and open-source enthusiast based in Brighton, UK.  
+I specialise in React Native, TypeScript, web frameworks, and e-commerce tooling.
 
 - 🌐 [Website](https://www.samnewhouse.co.uk)
 - 💼 [LinkedIn](https://www.linkedin.com/in/snewhouse)
 
 ---
 
-## 💖 Sponsor & Support
+## 💖 Sponsor
 
-You can help sustain and expand my open-source work by becoming a sponsor:  
+Support my open-source work:
 - **[GitHub Sponsors](https://github.com/sponsors/SamNewhouse)**
-
-Your support enables me to maintain, improve, and grow resources for the developer community.
 
 ---
 
 ## 🤝 Contributing
 
-Refer to the global [CONTRIBUTING.md](CONTRIBUTING.md) and [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md).  
-All my repositories welcome constructive issues, pull requests, and suggestions for improvement.
+See [CONTRIBUTING.md](CONTRIBUTING.md) & [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md).  
+I welcome issues, pull requests, and suggestions!
 
 ---
 
-## 🛠️ Universal Templates
+## 🛠️ Defaults
 
-This repository provides defaults for all my other projects:
-- Funding links & Sponsor button (see [FUNDING.yml](FUNDING.yml))
+This repo sets templates for all my projects:
+- Funding links & Sponsor button
 - Contribution guidelines
 - Code of Conduct
-- Issue, pull request, security, and support templates
+- Issue, PR, security, and support templates
 
-If you have feedback regarding these global standards, feel free to open an issue here.
+Feedback? Open an issue!
 
 ---
 
 ## 📦 Featured Projects
 
-- [create-nttb](https://github.com/SamNewhouse/create-nttb) – Next.js, TypeScript & Tailwind atomic boilerplate
-- [serverless-typescript-boilerplate](https://github.com/SamNewhouse/serverless-typescript-boilerplate) *(due for an update soon)*
-- [portfolio](https://github.com/SamNewhouse/portfolio)
+- [create-nttb](https://github.com/SamNewhouse/create-nttb) – Next.js, TypeScript & Tailwind boilerplate
+- [serverless-typescript-boilerplate](https://github.com/SamNewhouse/serverless-typescript-boilerplate) *(update soon)*
 
 ---
 
-Thanks for visiting and happy coding!  
+Thanks for stopping by – happy coding!  
 – Sam
