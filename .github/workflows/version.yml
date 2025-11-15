@@ -23,11 +23,17 @@ jobs:
         with:
           node-version: "24.x"
 
-      - name: Get package.json version from main branch
+      - name: Get default branch
+        id: default_branch
+        run: |
+          branch=$(git remote show origin | awk '/HEAD branch/ {print $NF}')
+          echo "DEFAULT_BRANCH=$branch" >> $GITHUB_ENV
+
+      - name: Get package.json version from default branch
         id: main_version
         run: |
-          git fetch origin main
-          main_version=$(jq -r .version <(git show origin/main:package.json))
+          git fetch origin $DEFAULT_BRANCH
+          main_version=$(jq -r .version <(git show origin/$DEFAULT_BRANCH:package.json))
           echo "main_version=$main_version" >> $GITHUB_ENV
 
       - name: Get package.json version from current branch
@@ -60,15 +66,14 @@ jobs:
       - name: Commit version bump
         if: env.version_updated == 'true'
         run: |
-          git config --global user.name "SamNewhouse"
-          git config --global user.email "hello@samnewhouse.co.uk"
+          git config --global user.name "${{ github.actor }}"
+          git config --global user.email "${{ github.actor }}@users.noreply.github.com"
           git add package.json package-lock.json
           git commit -m "Changed version to ${{ env.new_version }}"
-          git remote set-url origin https://x-access-token:${GH_TOKEN}@github.com/SamNewhouse/create-nttb.git
           git pull --rebase origin ${{ github.head_ref }}
           git push origin HEAD:${{ github.head_ref }}
         env:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Success
         run: echo "Version check and update workflow completed successfully."
