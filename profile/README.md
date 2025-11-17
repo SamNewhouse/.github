@@ -14,12 +14,6 @@ Full-stack developer and open-source enthusiast based in Brighton, UK.
 
 ---
 
-## 💖 Sponsor
-
-Support my open-source work:
-- **[GitHub Sponsors](https://github.com/sponsors/SamNewhouse)**
-
----
 ## 🛠️ Defaults
 
 This repo sets templates for all my projects:
