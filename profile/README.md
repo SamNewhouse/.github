@@ -22,6 +22,6 @@ Full-stack dev from Brighton · Serverless backends, solid infrastructure & Next
 | [vinted-tracker](https://github.com/SamNewhouse/vinted-tracker) | P&L tracker for Vinted resellers (renaming soon) |
 
 ## 📫 Contact
-- 🌐 [samnewhouse.co.uk](https://www.samnewhouse.co.uk)
-- ✉️ [hello@samnewhouse.co.uk](mailto:hello@samnewhouse.co.uk)
-- 💼 [linkedin.com/in/samnewhouse](https://www.linkedin.com/in/samnewhouse)
+🌐 [samnewhouse.co.uk](https://www.samnewhouse.co.uk)
+✉️ [hello@samnewhouse.co.uk](mailto:hello@samnewhouse.co.uk)
+💼 [linkedin.com/in/samnewhouse](https://www.linkedin.com/in/samnewhouse)
