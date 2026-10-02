@@ -27,4 +27,4 @@ Full-stack dev from Brighton · Serverless backends, solid infrastructure & Next
 
 ✉️ [hello@samnewhouse.co.uk](mailto:hello@samnewhouse.co.uk)
 
-💼 [linkedin.com/in/samnewhouse](https://www.linkedin.com/in/samnewhouse)
+💼 [linkedin.com/in/snewhouse](https://www.linkedin.com/in/snewhouse)
