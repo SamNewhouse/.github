@@ -18,7 +18,7 @@ Full-stack dev from Brighton · Serverless backends, solid infrastructure & Next
 |---|---|
 | [github-mcp-bridge](https://github.com/SamNewhouse/github-mcp-bridge) | A lightweight TypeScript MCP server for GitHub. |
 | [create-nttb](https://github.com/SamNewhouse/create-nttb) | Next.js + TypeScript + Tailwind boilerplate using Atomic Design |
-| [takings](https://github.com/SamNewhouse/akings) | P&L tracker for resellers |
+| [takings](https://github.com/SamNewhouse/takings) | A profit tracker for resellers |
 
 ## 📫 Contact
 
